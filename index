@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>website restaurant</title>
+    <link rel="stylesheet" href="prakash.css">
+</head>
+<body>
+
+    <nav>
+        <section class="pimg4">
+            <div class="ptext">
+                <span class="textbg"> रितिक रेस्टोरेंट में आपका हार्दिक स्वागत है</span>
+            </div>
+        </section>
+    </nav>
+    
+    <!-- hero-section -->
+    <div class="container">
+        <div class="hero">
+            <div class="hero-image">
+                <img src="https://static.toiimg.com/photo/71756152.cms" alt="tasty food">
+            </div>
+            <div class="hero-content">
+                    <div class="tag"> 50% discount off on all product </div>
+                    <h1>enjoy your delicious food</h1>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum qui consequuntur explicabo, ipsum ratione maxime?
+                    </p>
+                    <button class="explore-btn">
+                        explore now
+                    </button>
+                </div>
+            </div>
+        </div>
+        <section class="features">
+            <div class="feature">
+                <img src="https://cdn3d.iconscout.com/3d/premium/thumb/coupon-6684148-5523041.png" alt="">
+                <div class="feature-content">
+                    <h1>discount voucher</h1>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                </div>
+            </div>
+
+            <div class="feature"></div>
+                <img src="https://static.thenounproject.com/png/3374221-200.png" alt="">
+                <div class="feature-content">
+                    <h1>fresh healthy food</h1>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                </div>
+            </div>
+
+            <div class="feature">
+                <img src="https://static.vecteezy.com/system/resources/thumbnails/019/848/977/small/food-delivery-online-shopping-stay-at-home-we-deliver-to-you-order-food-grocery-online-from-app-by-smart-phone-fast-delivery-of-groceries-bucket-smart-phone-vector.jpg" alt="nhkjkj">
+                <div class="feature-content">
+                    <h1>fast home delivery</h1>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                </div>
+            </div>
+        </section>
+<div class="divider"></div>
+<div class="menu">
+    <div class="tag">our menu</div>
+    <h2>explore our menu</h2>
+
+
+    <div class="grid">
+        <div class="item1">
+            <img class="grid-image" src="https://media-cdn.tripadvisor.com/media/photo-s/15/79/42/dc/spicy-feast-of-our-signature.jpg" alt="image1">
+            
+        </div>
+        <div class="item2">
+            <img class="grid-image" src="https://im.hunt.in/cg/Darbhanga/City-Guide/food" alt="image2">
+
+        </div>
+        <div class="item3">
+            <img class="grid-image" src="https://im.hunt.in/cg/Darbhanga/City-Guide/swets.jpg" alt="image3">
+
+        </div>
+        <div class="item4">
+            <img class="grid-image" src="https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/7/2016/09/240916_Lunch-SouthIndianHomeMeal.jpg" alt="image4">
+
+        </div>
+        <div class="item5">
+            <img class="grid-image" src="https://mithilalifestyleandculturedesign.files.wordpress.com/2020/08/screenshot_2020_0831_151605-1.png" alt="image5">
+
+        </div>
+        <div class="item6">
+            <img class="grid-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwVB5Lai2Hw-JlaO3M7q_tI-OrWkiyYBxxbQivJCwko7xBptDIVYXnplC91z3yLQfVG4M&usqp=CAU" alt="image6">
+
+        </div>
+        <div class="item7">
+            <img class="grid-image" src="https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/11/Delhi-pani-puri.webp" alt="image7">
+
+
+        </div>
+    </div>
+</div>
+    </div>
+    <footer>
+        <div class="footer-container container">
+            <div class="footer-logo">
+                <img src="https://www.shutterstock.com/image-vector/vector-logo-teagreen-tea-cup-260nw-1666777138.jpg" alt="">
+            </div>
+            <div class="link-lists">
+                <h3>Main links</h3>
+                <ul>
+                    <li>order tracking</li>
+                    <li>new order</li>
+                    <li>contact us</li>
+                    <li>news & Blogs</li>
+                </ul>
+            </div>
+            <div class="link-lists">
+                <h3>support</h3>
+                <ul>
+                    <li>about us</li>
+                    <li>privacy policy</li>
+                    <li>terms & conditions</li>
+                </ul>
+            </div>
+<div class="news-letter">
+    <h3>support</h3>
+    <input type="email" placeholder="enter your email...">
+
+    <h3>follow us</h3>
+    <div class="icon-container">
+        <div class="icon">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrnTbGQppvPks3sTGJ_p2a4BmvHf9LYOe2Cyx2hp8Fse4GVohSpd07-BvWff5ZLFun5k&usqp=CAU" alt="">
+         </div>
+
+            <div class="icon">
+                <img src="https://icons-for-free.com/iconfiles/png/512/logo+social+media+twitter+icon-1320196032508490502.png" alt="">
+           </div>
+
+                <div class="icon">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLvHZodYxBGeMhEXBr9y7DoxsnGQc0c4LoyCj9sKmkhgTHMIMxA1KoVS7C6E5zf7VyfsA&usqp=CAU" alt="">
+                </div>
+                    <div class="icon">
+                        <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/youtube-round-icon.png" alt="">
+                </div>
+                
+    </div>
+</div>
+        </div>
+    </footer>
+</body>
+</html>
